@@ -1,0 +1,5 @@
+{
+  "name": "Cricket Hub",
+  "description": "A web application to display live cricket scores, upcoming matches, and tournament information. Stay updated with the latest in the world of cricket.",
+  "requestFramePermissions": []
+}
